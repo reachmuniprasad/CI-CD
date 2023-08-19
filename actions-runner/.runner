@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "PRASADYEBELO",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/wIsgtjHTyNxjUOSnaLtAX19WDo2GS9f4T3p7imaF2v1pQRhMns",
+  "gitHubUrl": "https://github.com/reachmuniprasad/CI-CD",
+  "workFolder": "_work"
+}
