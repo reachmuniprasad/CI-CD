@@ -1,0 +1,85 @@
+[2023-08-19 08:25:53Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-08-19 08:25:53Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:53Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:53Z INFO HostContext] Well known config file 'Credentials': 'D:\learning\ci\CI-CD\actions-runner\.credentials'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO HostContext] Well known config file 'Runner': 'D:\learning\ci\CI-CD\actions-runner\.runner'
+[2023-08-19 08:25:54Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-08-19 08:25:54Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-08-19 08:25:54Z INFO Listener] Version: 2.307.1
+[2023-08-19 08:25:54Z INFO Listener] Commit: 2a7e9ad3a7574c9c3e72b8cf7cf2e19c129d2ca8
+[2023-08-19 08:25:54Z INFO Listener] Culture: en-US
+[2023-08-19 08:25:54Z INFO Listener] UI Culture: en-US
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO Listener] Validating directory permissions for: 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO CommandLineParser] Parse
+[2023-08-19 08:25:54Z INFO CommandLineParser] Parsing 5 args
+[2023-08-19 08:25:54Z INFO CommandLineParser] parsing argument
+[2023-08-19 08:25:54Z INFO CommandLineParser] HasArgs: False
+[2023-08-19 08:25:54Z INFO CommandLineParser] Adding Command: configure
+[2023-08-19 08:25:54Z INFO CommandLineParser] parsing argument
+[2023-08-19 08:25:54Z INFO CommandLineParser] HasArgs: True
+[2023-08-19 08:25:54Z INFO CommandLineParser] arg: url
+[2023-08-19 08:25:54Z INFO CommandLineParser] parsing argument
+[2023-08-19 08:25:54Z INFO CommandLineParser] HasArgs: True
+[2023-08-19 08:25:54Z INFO CommandLineParser] Adding option 'url': 'https://github.com/reachmuniprasad/CI-CD'
+[2023-08-19 08:25:54Z INFO CommandLineParser] parsing argument
+[2023-08-19 08:25:54Z INFO CommandLineParser] HasArgs: True
+[2023-08-19 08:25:54Z INFO CommandLineParser] arg: token
+[2023-08-19 08:25:54Z INFO CommandLineParser] parsing argument
+[2023-08-19 08:25:54Z INFO CommandLineParser] HasArgs: True
+[2023-08-19 08:25:54Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-08-19 08:25:54Z INFO Listener] Arguments parsed
+[2023-08-19 08:25:54Z INFO Runner] ExecuteCommand
+[2023-08-19 08:25:54Z INFO ConfigurationStore] currentAssemblyLocation: D:\learning\ci\CI-CD\actions-runner\bin\Runner.Listener.dll
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO ConfigurationStore] binPath: D:\learning\ci\CI-CD\actions-runner\bin
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO ConfigurationStore] RootFolder: D:\learning\ci\CI-CD\actions-runner
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO HostContext] Well known config file 'Runner': 'D:\learning\ci\CI-CD\actions-runner\.runner'
+[2023-08-19 08:25:54Z INFO ConfigurationStore] ConfigFilePath: D:\learning\ci\CI-CD\actions-runner\.runner
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO HostContext] Well known config file 'Credentials': 'D:\learning\ci\CI-CD\actions-runner\.credentials'
+[2023-08-19 08:25:54Z INFO ConfigurationStore] CredFilePath: D:\learning\ci\CI-CD\actions-runner\.credentials
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\learning\ci\CI-CD\actions-runner\.credentials_migrated'
+[2023-08-19 08:25:54Z INFO ConfigurationStore] MigratedCredFilePath: D:\learning\ci\CI-CD\actions-runner\.credentials_migrated
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Bin': 'D:\learning\ci\CI-CD\actions-runner\bin'
+[2023-08-19 08:25:54Z INFO HostContext] Well known directory 'Root': 'D:\learning\ci\CI-CD\actions-runner'
+[2023-08-19 08:25:54Z INFO HostContext] Well known config file 'Service': 'D:\learning\ci\CI-CD\actions-runner\.service'
+[2023-08-19 08:25:54Z INFO ConfigurationStore] ServiceConfigFilePath: D:\learning\ci\CI-CD\actions-runner\.service
+[2023-08-19 08:25:54Z INFO CommandSettings] Flag 'help': 'False'
+[2023-08-19 08:25:54Z INFO CommandSettings] Flag 'version': 'False'
+[2023-08-19 08:25:54Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-08-19 08:25:54Z INFO CommandSettings] Flag 'check': 'False'
+[2023-08-19 08:25:54Z INFO CommandSettings] Command 'configure': 'True'
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: 
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE: |                       
+[2023-08-19 08:25:54Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE:                         |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-08-19 08:25:54Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-08-19 08:25:54Z INFO ConfigurationManager] ConfigureAsync
+[2023-08-19 08:25:54Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-08-19 08:25:54Z INFO ConfigurationStore] IsConfigured()
+[2023-08-19 08:25:54Z INFO ConfigurationStore] IsConfigured: True
+[2023-08-19 08:25:54Z INFO ConfigurationManager] Is configured: True
+[2023-08-19 08:25:54Z ERR  Runner] System.InvalidOperationException: Cannot configure the runner because it is already configured. To reconfigure the runner, run 'config.cmd remove' or './config.sh remove' first.
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2023-08-19 08:25:54Z ERR  Terminal] WRITE ERROR: Cannot configure the runner because it is already configured. To reconfigure the runner, run 'config.cmd remove' or './config.sh remove' first.
+[2023-08-19 08:25:54Z INFO Listener] Runner execution has finished with return code 1
